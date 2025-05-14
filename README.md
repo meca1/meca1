@@ -12,18 +12,37 @@ I'm a passionate software engineer who loves building scalable systems and solvi
 
 ## 💻 Tech Stack
 
-```python
-tech_stack = {
-    "Languages": ["Python", "Node.js", "TypeScript", "JavaScript"],
-    "Cloud & Infrastructure": [
-        "AWS Lambda", "AWS SQS", "DynamoDB", "RDS",
-        "S3", "CloudFront", "Secrets Manager"
-    ],
-    "Frameworks": ["Express.js", "Flask", "Serverless Framework"],
-    "Tools": ["Docker", "Kubernetes", "Terraform", "AWS CDK"],
-    "Testing & Monitoring": ["Jest", "Cypress", "DataDog", "Sentry"]
-}
-```
+- **Languages:**  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+- **Cloud & Infrastructure:**  
+  ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
+  ![AWS SQS](https://img.shields.io/badge/-AWS%20SQS-232F3E?logo=amazonaws&logoColor=white)
+  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
+  ![RDS](https://img.shields.io/badge/-RDS-527FFF?logo=amazonrds&logoColor=white)
+  ![S3](https://img.shields.io/badge/-S3-569A31?logo=amazons3&logoColor=white)
+  ![CloudFront](https://img.shields.io/badge/-CloudFront-4B286D?logo=amazonaws&logoColor=white)
+  ![Secrets Manager](https://img.shields.io/badge/-Secrets%20Manager-D7263D?logo=amazonaws&logoColor=white)
+
+- **Frameworks:**  
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+  ![Serverless Framework](https://img.shields.io/badge/-Serverless-FD5750?logo=serverless&logoColor=white)
+
+- **Tools:**  
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
+  ![AWS CDK](https://img.shields.io/badge/-AWS%20CDK-4B286D?logo=amazonaws&logoColor=white)
+
+- **Testing & Monitoring:**  
+  ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
+  ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
+  ![DataDog](https://img.shields.io/badge/-DataDog-632CA6?logo=datadog&logoColor=white)
+  ![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)
 
 ## 🏆 Key Achievements
 
@@ -60,4 +79,4 @@ I'm currently working on:
 
 ---
 
-💡 *"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live"*
+💡 *"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live"* 
